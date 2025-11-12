@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dao","l":"FirebaseService"},{"p":"controller","l":"Main"},{"p":"model","l":"Prestamo"},{"p":"model","l":"Usuario"}];updateSearchResults();
